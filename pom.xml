@@ -511,6 +511,10 @@
           <runTarget>App.html</runTarget>
           <extraJvmArgs>-Xmx512m</extraJvmArgs>
           <hostedWebapp>src/main/webapp/</hostedWebapp>
+          <modules>
+              <module>errai.app.App</module>
+              <module>errai.login.Login</module>
+          </modules>
         </configuration>
         <executions>
           <execution>

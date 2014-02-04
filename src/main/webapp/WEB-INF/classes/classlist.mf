@@ -1,7 +1,7 @@
 errai.rest.customers.shared.Customer
-errai.rest.customers.server.CustomerServiceImpl
 errai.rest.login.shared.LoginService
-errai.app.client.App
 errai.rest.customers.shared.CustomerService
-errai.login.client.Login
 errai.rest.login.server.LoginServiceImpl
+errai.app.client.App
+errai.login.client.Login
+errai.rest.customers.server.CustomerServiceImpl
